@@ -1,5 +1,5 @@
 import React from 'react'
-import { Contact, GetInvolveWithUs, Glimpses, Navbar, OurModel, OurTeam, WhoWeAre } from './components'
+import { Contact, GetInvolveWithUs, Glimpses, Navbar, OurModel, OurTeam, WhoWeAre } from '../components'
 
 const Page = () => {
   return (

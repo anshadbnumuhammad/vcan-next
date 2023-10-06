@@ -1,5 +1,3 @@
-import React from 'react'
-
 const OurModel = () => {
   return (
     <div>OurModel</div>
